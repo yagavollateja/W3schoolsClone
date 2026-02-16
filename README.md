@@ -43,4 +43,43 @@ The project focuses on recreating a structured learning platform interface simil
 ---
 
 ## 📂 Project Structure
+W3schoolsClone/
+│
+├── W3School Page/
+│ ├── index.html
+│ ├── style.css
+│ └── assets
+
+---
+
+## 🎯 Purpose of This Project
+
+This project was built to:
+
+- Practice real-world frontend UI cloning
+- Strengthen CSS styling skills
+- Improve layout understanding
+- Add a professional project to my developer portfolio
+
+---
+
+## 🧑‍💻 Author
+
+**Yagavolla Teja**  
+Frontend Developer | Full-Stack Learner
+
+- GitHub: https://github.com/yagavollateja
+
+---
+
+## 📜 Disclaimer
+
+This project is created only for **educational and practice purposes**.  
+It is not affiliated with or endorsed by W3Schools.
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
 
